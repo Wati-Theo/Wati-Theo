@@ -1,2 +1,3 @@
-<h1 align="center">Wati-Theo</h1>
-<p align="center">[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/tschlege)](https://github.com/JaeSeoKim/badge42)</p>
+<h1 align="center">Wati-Theo (L'OFFCIEL)</h1>
+<h2 align="center">(L'OFFICIEL)</h2>
+<p align="center"><img align="center" src="https://badge42.herokuapp.com/api/stats/tschlege"/>
