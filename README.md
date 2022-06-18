@@ -28,3 +28,27 @@
 <div>
 	<h3>Born2beroot</h3>
 </div>
+
+<a href="https://www.instagram.com/wati__theo/"><img src="https://badge42.vercel.app/api/v2/cl1m1eyu1033109jo16a03k20/project/2586135" alt="tschlege's 42 Exam Rank 02 Score" align="right"/></a>
+
+<div>
+	<h3>Exam Rank 02</h3>
+</div>
+
+<a href="https://www.instagram.com/wati__theo/"><img src="https://badge42.vercel.app/api/v2/cl1m1eyu1033109jo16a03k20/project/2586703" alt="tschlege's 42 so_long Score" align="right"/></a>
+
+<div>
+	<h3>so_long</h3>
+</div>
+
+<a href="https://www.instagram.com/wati__theo/"><img src="https://badge42.vercel.app/api/v2/cl1m1eyu1033109jo16a03k20/project/2586704" alt="tschlege's 42 minitalk Score" align="right"/></a>
+
+<div>
+	<h3>minitalk</h3>
+</div>
+
+<a href="https://www.instagram.com/wati__theo/"><img src="https://badge42.vercel.app/api/v2/cl1m1eyu1033109jo16a03k20/project/2623978" alt="tschlege's 42 push_swap Score" align="right"/></a>
+
+<div>
+	<h3>push_swap</h3>
+</div>
