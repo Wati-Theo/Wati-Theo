@@ -56,5 +56,5 @@
 <a href="https://www.instagram.com/wati__theo/"><img src="https://badge42.vercel.app/api/v2/cl1m1eyu1033109jo16a03k20/project/2669375" alt="tschlege's 42 Philosophers Score" align="right"/></a>
 
 <div>
-	<h3>push_swap</h3>
+	<h3>Philosophers</h3>
 </div>
