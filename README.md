@@ -53,7 +53,7 @@
 	<h3>push_swap</h3>
 </div>
 
-<a href="https://www.instagram.com/wati__theo/"><img src="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1m1eyu1033109jo16a03k20/project/2669375" alt="tschlege's 42 Philosophers Score" align="right"/></a>
+<a href="https://www.instagram.com/wati__theo/"><img src="https://badge42.vercel.app/api/v2/cl1m1eyu1033109jo16a03k20/project/2669375" alt="tschlege's 42 Philosophers Score" align="right"/></a>
 
 <div>
 	<h3>push_swap</h3>
